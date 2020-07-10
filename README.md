@@ -15,7 +15,7 @@ I am currently working on [6GO](https://6go.it), which is one of my company as a
 
 ### Sponsoriships
 
-I love supporting people and ideas, if you have something interesting to expose please contact me and if your idea is good enough I'll sponsor your!
+I love supporting people and ideas, if you are building something interesting please contact me and if your idea is good enough I'll sponsor you!
 
 ### Get in touch ✉️
 
