@@ -11,7 +11,7 @@ When I grew up, lots of things became clearer and the field of computer science 
 
 ### My work 👨‍💻
 
-I am currently working on [6GO](https://6go.it), which is one of my company. I'm also a private equity investor.
+I am currently working on 6GO, which is one of my company. I'm also a private equity investor.
 
 ### Sponsoriships
 
