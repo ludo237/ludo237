@@ -11,7 +11,7 @@ When I grew up, lots of things became clearer and the field of computer science 
 
 ### My work 👨‍💻
 
-I am currently working on [6GO](https://6go.it), which is one of my company as a CTO. I'm also a private equity investor and a real estate owner across Europe.
+I am currently working on [6GO](https://6go.it), which is one of my companies, as a CTO. I'm also a retired investor now I'm a proudly Bitcoin only owner.
 
 ### Sponsoriships
 
@@ -21,4 +21,3 @@ I love supporting people and ideas, if you are building something interesting pl
 
 - On Twitter [@ludo237](https://twitter.com/ludo237)
 - On [LinkedIn](https://www.linkedin.com/in/claudio-ludovico-panetta-85b8903a/)
-- On Instagram [@ludo237](https://instagram.com/ludo237)
