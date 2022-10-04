@@ -11,7 +11,7 @@ When I grew up, lots of things became clearer and the field of computer science 
 
 ### My work 👨‍💻
 
-I am currently working on [6GO](https://6go.it), which is one of my companies, as a CTO. I'm also a retired investor now I'm a proudly Bitcoin only owner.
+Formerly the CTO of [6GO](https://6go.eu), which was one of my companies I'm currently seeking for new challenges and opportunities around the world. I'm also a retired investor now I'm a proudly Bitcoin only owner.
 
 ### Sponsoriships
 
