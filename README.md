@@ -19,4 +19,4 @@ I love supporting people and ideas, if you are building something interesting pl
 
 ### Get in touch ✉️
 
-- On [LinkedIn](https://www.linkedin.com/in/claudio-ludovico-panetta-85b8903a/)
+- On [LinkedIn](https://www.linkedin.com/in/ludo237/)
