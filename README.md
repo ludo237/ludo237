@@ -11,7 +11,7 @@ When I grew up, lots of things became clearer and the field of computer science 
 
 ### My work 👨‍💻
 
-Formerly the CTO of [6GO](https://6go.eu), which was one of my companies I'm currently seeking for new challenges and opportunities around the world. I'm also a retired investor now I'm a proudly Bitcoin only owner.
+I'm the CTO and Co Founder of Klaxy, Vektra and [6GO](https://6go.it). I also do consulting.
 
 ### Sponsoriships
 
@@ -19,4 +19,6 @@ I love supporting people and ideas, if you are building something interesting pl
 
 ### Get in touch ✉️
 
-- On [LinkedIn](https://www.linkedin.com/in/ludo237/)
+- [LinkedIn](https://www.linkedin.com/in/ludo237/)
+- [X (Twitter)](https://www.x.com/realLudo237)
+  
