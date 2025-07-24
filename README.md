@@ -7,11 +7,12 @@ I also deeply believe in the open-source movement and try to give back to the co
 
 I am part of the ‘90s generation that grew up with the Fresh Prince of Bel Air and the Commodore 64. Understanding how stuff works is a passion that I showed since the age of 5, in fact I tried to assemble and disassemble both “Commodore” and “Amiga” with very positive results, but with a lot of anger as well. It was caused by the fact that the more parts I discovered, the more I could not understand how they worked.
 
-When I grew up, lots of things became clearer and the field of computer science became my main passion. I started to get closer to the art of programming relatively late, around 16 years old, before, I dabbled only in programming micro C software on consoles, nothing important. The "hard" programming began exactly when I was 16. After that, I took a diploma in computer science in Italy then I started to study computer engineering in Switzerland at SUPSI where I learnt a lot of basic essential techniques for a good engineer. I'm deeply proud of my work and I strongly believe in continuous formation because technology never stops and I will not ever let it go too far from my passion. 
+When I grew up, lots of things became clearer and the field of computer science became my main passion. I started to get closer to the art of programming relatively late, around 16 years old, before, I dabbled only in programming micro C software on consoles, nothing important. The "hard" programming began exactly when I was 16. After that, I took a diploma in computer science in Italy then I started to study computer engineering in Switzerland at SUPSI where I learnt a lot of basic essential techniques for a good engineer. I'm deeply proud of my work and I strongly believe in continuous formation because technology never stops and I will not ever let it go too far from my passion.
 
 ### My work 👨‍💻
 
 I'm the CTO and Co Founder of Klaxy, Vektra and [6GO](https://6go.it). I also do consulting.
+My open source work is mostly done on Gitlab, not here on Github, check out below for my profile.
 
 ### Sponsoriships
 
@@ -19,6 +20,7 @@ I love supporting people and ideas, if you are building something interesting pl
 
 ### Get in touch ✉️
 
+- [Gitlab](https://www.gitlab.com/ludo237)
 - [LinkedIn](https://www.linkedin.com/in/ludo237/)
 - [X (Twitter)](https://www.x.com/realLudo237)
   
