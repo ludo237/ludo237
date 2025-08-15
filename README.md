@@ -20,7 +20,7 @@ I love supporting people and ideas, if you are building something interesting pl
 
 ### Get in touch ✉️
 
-- [Gitlab](https://www.gitlab.com/ludo237)
+- [Gitlab](https://www.gitlab.com/ludo237) I'm more active on Gitlab than Github
 - [LinkedIn](https://www.linkedin.com/in/ludo237/)
 - [X (Twitter)](https://www.x.com/realLudo237)
   
